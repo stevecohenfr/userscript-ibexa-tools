@@ -4,8 +4,8 @@
 // @description  Switch DNS environments (PROD/DEV) while keeping the same page path - Smart contextual menu with Tampermonkey config
 // @author       Emcou
 // @include      *
-// @updateURL    https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/dns-switcher.js
-// @downloadURL  https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/dns-switcher.js
+// @updateURL    https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/dns-switcher.user.js
+// @downloadURL  https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/dns-switcher.user.js
 // @match        https://*/*
 // @match        http://*/*
 // @grant        GM_registerMenuCommand
