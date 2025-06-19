@@ -4,8 +4,8 @@
 // @description  Add some usefull tools for Ibexa Admin Interface
 // @author       Steve Cohen
 // @include      *
-// @updateURL    https://gist.githubusercontent.com/stevecohenfr/31f41de2d4aa64245495b981f43756bb/raw/ibexa-tools.user.js
-// @downloadURL  https://gist.githubusercontent.com/stevecohenfr/31f41de2d4aa64245495b981f43756bb/raw/ibexa-tools.user.js
+// @updateURL    https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/ibexa-tools.user.js
+// @downloadURL  https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/ibexa-tools.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
