@@ -48,7 +48,17 @@
         // IMMO DEV
         IMMO_DEV_ADMIN: "://adminpp.cfnewsimmo.loc:8890",
         IMMO_DEV_CONTRIB: "://contribpp.cfnewsimmo.loc:8890",
-        IMMO_DEV_FRONT: "://www.cfnewsimmo.loc:8890"
+        IMMO_DEV_FRONT: "://www.cfnewsimmo.loc:8890",
+
+        // SFX PROD
+        SFX_PROD_ADMIN: "://sfxadmin.cfnews.net",
+        SFX_PROD_CONTRIB: "://sfxcontrib.cfnews.net",
+        SFX_PROD_FRONT: "://sfxpp.cfnews.net",
+
+        // SFX DEV
+        SFX_DEV_ADMIN: "://sfxadmin.satellifacts.ddev.site:8447",
+        SFX_DEV_CONTRIB: "://sfxcontrib.satellifacts.ddev.site:8447",
+        SFX_DEV_FRONT: "://www.satellifacts.ddev.site:8447"
     };
 
     let environmentGroups = {};
