@@ -56,8 +56,8 @@
         SFX_PROD_FRONT: "://sfxpp.cfnews.net",
 
         // SFX DEV
-        SFX_DEV_ADMIN: "://sfxadmin.satellifacts.ddev.site:8447",
-        SFX_DEV_CONTRIB: "://sfxcontrib.satellifacts.ddev.site:8447",
+        SFX_DEV_ADMIN: "://adminsfx.satellifacts.ddev.site:8447",
+        SFX_DEV_CONTRIB: "://contribsfx.satellifacts.ddev.site:8447",
         SFX_DEV_FRONT: "://www.satellifacts.ddev.site:8447"
     };
 
