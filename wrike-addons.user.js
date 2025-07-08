@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wrike Addons
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Quelques tools pour Wrike
 // @author       Steve
 // @match        https://www.wrike.com/workspace.htm*
