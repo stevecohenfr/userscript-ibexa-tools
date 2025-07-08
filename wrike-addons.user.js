@@ -2,7 +2,7 @@
 // @name         Wrike Addons
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Debug + bouton Git épuré avec toast sur Wrike
+// @description  Quelques tools pour Wrike
 // @author       Steve
 // @match        https://www.wrike.com/workspace.htm*
 // @updateURL    https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/wrike-addons.user.js
