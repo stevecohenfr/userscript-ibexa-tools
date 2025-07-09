@@ -7,6 +7,7 @@
 // @match        https://www.wrike.com/workspace.htm*
 // @updateURL    https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/wrike-addons.user.js
 // @downloadURL  https://github.com/stevecohenfr/userscript-ibexa-tools/raw/refs/heads/main/wrike-addons.user.js
+// @grant        GM_setClipboard
 // @run-at       document-end
 // ==/UserScript==
 
